@@ -92,7 +92,7 @@ Regras:
 
 * A conta deve existir
 * O assetId permitido é BTC ou USD
-* A quantidade deve ser maior ou igual ao saldo
+* A quantidade deve ser menor ou igual ao saldo
 
 ***
 
